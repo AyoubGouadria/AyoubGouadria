@@ -5,15 +5,15 @@
 <h3 align="center">🚀 Passionate Full-Stack Developer | Angular • React • Spring Boot • Node.js</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayoub-gouadria-5335a2256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/ayoub-gwadria-5335a2256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ayoubgouadriaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/ayoubgouadria"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/AyoubGouadria"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.facebook.com/ayoub.gwadria"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayoubgouadria&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ayoubgouadria?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=AyoubGouadria&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AyoubGouadria?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
@@ -129,16 +129,16 @@ const ayoub = {
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubgouadria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgouadria&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyoubGouadria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubGouadria&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ayoubgouadria&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=AyoubGouadria&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubgouadria&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyoubGouadria&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
 </p>
 
 ---
@@ -146,7 +146,7 @@ const ayoub = {
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayoubgouadria&theme=tokyonight&no-frame=true&no-bg=true&column=7&row=1&margin-w=10&margin-h=10" alt="GitHub Trophies" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AyoubGouadria&theme=tokyonight&no-frame=true&no-bg=true&column=7&row=1&margin-w=10&margin-h=10" alt="GitHub Trophies" width="98%" />
 </p>
 
 ---
@@ -201,11 +201,11 @@ I'm actively seeking opportunities to collaborate on:
   <a href="mailto:ayoubgouadriaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-ayoubgouadriaa@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/ayoub-gouadria-5335a2256">
+  <a href="https://linkedin.com/in/ayoub-gwadria-5335a2256">
     <img src="https://img.shields.io/badge/LinkedIn-Ayoub_Gwadria-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/ayoubgouadria">
-    <img src="https://img.shields.io/badge/GitHub-ayoubgouadria-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/AyoubGouadria">
+    <img src="https://img.shields.io/badge/GitHub-AyoubGouadria-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
