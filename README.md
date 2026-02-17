@@ -128,26 +128,34 @@ const ayoub = {
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayoubgwadria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgwadria&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoubgwadria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgwadria&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubgwadria&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubgwadria&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ayoubgwadria&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayoubgwadria&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayoubgwadria&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=ayoubgwadria&theme=tokyonight&no-frame=true&no-bg=true&column=7&row=1&margin-w=10&margin-h=10)
+
+</div>
 
 ---
 
