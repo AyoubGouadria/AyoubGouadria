@@ -137,13 +137,13 @@ const ayoub = {
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=ayoubgwadria&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ayoubgouadria&theme=tokyonight&hide_border=true)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayoubgwadria&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayoubgouadria&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
