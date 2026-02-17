@@ -146,7 +146,7 @@ const ayoub = {
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyoubGouadria&theme=tokyonight&no-frame=true&no-bg=true&column=7&row=1&margin-w=10&margin-h=10" alt="GitHub Trophies" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayoubgouadria&theme=tokyonight&no-frame=true&no-bg=true&column=7&row=1&margin-w=10&margin-h=10" alt="GitHub Trophies" width="98%" />
 </p>
 
 ---
