@@ -23,7 +23,7 @@
 ```javascript
 const ayoub = {
   role: "Full-Stack Web Developer",
-  location: "Tunisia 🇹🇳",
+  location: "Germany 🇩🇪",
   currentFocus: "Enterprise-style Full-Stack Applications (Angular + Spring Boot + REST APIs)",
   learning: ["System Design", "Docker", "CI/CD", "Clean Architecture", "AWS Cloud"],
   collaborateOn: ["Modern Web Applications", "SaaS Projects", "Startup MVPs"],
